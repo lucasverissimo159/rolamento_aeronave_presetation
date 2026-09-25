@@ -5,14 +5,6 @@ Interactive presentation and explanatory material on the **Modeling, Equation of
 Apresentação interativa e material explicativo sobre a **Modelagem, Equação de Movimento e Função de Transferência** do Modo de Rolamento Puro em dinâmica de voo de aeronaves.
 
 ---
-
-## 💡 Repository Descriptions / Descrições do Repositório
-
-*(Options for repository description / Opções para a descrição curta do repositório no GitHub)*
-
-- **EN**: Interactive presentation & simulation of Aircraft Pure Roll Mode dynamics, ODE modeling, and Transfer Function (Schmidt, 1998).
-- **PT**: Apresentação interativa e simulação da dinâmica do Modo de Rolamento Puro de aeronaves, modelagem por EDO e Função de Transferência.
-
 ---
 
 # 🇬🇧 English Version
